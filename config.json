@@ -3,5 +3,10 @@
         "nom": "",
         "adresse": ""
     },
-    "Adjudicateur":{}
+    "Adjudicateur":{
+        "nom": "",
+        "adresse": ""
+    },
+    "AAO": "",
+    "date_soumission": ""
 }
