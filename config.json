@@ -1,12 +1,16 @@
 {
     "contractant":{
         "nom": "",
-        "adresse": ""
+        "adresse": "",
+        "path_logo": ""
     },
     "Adjudicateur":{
         "nom": "",
-        "adresse": ""
+        "adresse": "",
+        "path_logo": ""
     },
     "AAO": "",
-    "date_soumission": ""
+    "date_soumission": "",
+    "info_pied_de_page": "",
+    "objet_document": ""
 }
