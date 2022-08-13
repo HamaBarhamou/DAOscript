@@ -1,2 +1,5 @@
 # DAOscript
-Project to automate responses to tender documents
+Project to automate responses to tender documents 
+
+## requirement
+pip install python-docx
