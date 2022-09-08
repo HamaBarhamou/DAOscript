@@ -21,7 +21,7 @@ def main():
     document.add_page_break()
 
     for line in doc:
-        for _ in range(7):
+        for _ in range(4):
             document.add_paragraph('\n')
         document.add_paragraph(line.upper())
         document.add_page_break()
