@@ -1,22 +1,6 @@
-Documents administratives
-Liste de controle
-NIF
-RCCM
-ARF
-Formulaire de qualification
-Lettre d'engagement
-Engagement à respecter la déclaration d’absence de conflit d’intérêts et le code de déontologie de CRS
-Copie l'égalisée d'agrément du ministere de tutelle
-Déclaration de prestations soutenu par des attestations de bonnes exécutions
-Confirmation d’absence de mesure de sanction 
-Autorisation du fabricant
-Garantie bancaire
-OFFRE FINANCIERE
-Lettre de soumission de l’offre 
-Bordereau des prix unitaires des biens et services
-OFFRE TECHNIQUE
-Liste des Biens et calendrier de livraison
-Liste des services Connexes et Calendrier de réalisation
-Description technique des biens proposés - tableau comparatif des données
-Fiches technique du groupe electrogene
-information sur l'origine des biens
+Schéma synoptique des systeme solaire
+Typologie 1A
+Typologie 1B
+Typologie 2
+Presentaion des support modules (Pergoa & Toiture)
+Plan des armoires électriques

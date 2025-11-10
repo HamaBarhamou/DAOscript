@@ -1,0 +1,29 @@
+# Documents personnels
+Documents/
+OFFRE*.docx
+
+# Environnement virtuel Python
+env/
+venv/
+ENV/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Modules compilés
+modules/__pycache__/
+*.pyc
+
+# Configuration système
+os/
+sys/
